@@ -1,0 +1,16 @@
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.exe
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.deps.json
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.json
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.dev.json
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.dll
+C:\Users\USER\Multiplication\bin\Debug\net5.0\ref\Multiplication.dll
+C:\Users\USER\Multiplication\bin\Debug\net5.0\Multiplication.pdb
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.csproj.AssemblyReference.cache
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfo.cs
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.dll
+C:\Users\USER\Multiplication\obj\Debug\net5.0\ref\Multiplication.dll
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.pdb
+C:\Users\USER\Multiplication\obj\Debug\net5.0\Multiplication.genruntimeconfig.cache
